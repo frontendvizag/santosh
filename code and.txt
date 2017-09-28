@@ -1,0 +1,70 @@
+HTML - CSS - JAVASCRIPT - JQUREY
+
+Executing the same on WORDPRESS, DRUPAL, JOOMLA and what ever it might be, CMS BASED Designing and Developing MODULES
+
+xhtml (Content Management System)
+
+HTML-5 VALIDATOR
+
+https://html5.validator.nu/
+
+
+CSS VALIDATOR
+
+https://jigsaw.w3.org/css-validator/
+
+
+REPLICATION ON WORDPRESS THEMES EXBITS ON MONSTER TEMPLATE FOR SALE
+
+HTML-5 validation with quality based on International standards.
+
+CSS LEVEL -3 validation with no errors or warnings
+
+JQUERY referred  javascript library
+
+
+
+BROWSER COMPATABILITY
+
+APPLICABLE WITH ALL MORDERN BROWSERS
+
+1.IE Internet Explorer
+
+2.Google Chrome
+
+3.Opera
+
+4.Safari
+
+5.Mozilla Firefox
+
+
+DEVICE COMPATABILITY
+
+MONITOR
+
+MEGA MONITOR
+
+PHABLETS
+
+TABLETS
+
+MOBILES
+
+IN MODES OF LANDSCAPE & PORTRAIT
+
+
+CROSS BROWSER COMPATIBILITY, RESPONDS ON ALL BROWSERS DEVELOPED WITH UPDATED VERSIONS OF HTML5 - CSS LEVEL-3
+
+
+CUSTOM CODING with highly customizible crossess the ability of boostrap
+
+kindly check attachement below
+
+
+
+
+
+
+
+
