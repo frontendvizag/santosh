@@ -41,7 +41,8 @@ img {
 }
 
 .home_h2 li {
-	display: none
+	display: none;
+	cursor:pointer;
 }
 
 .home_h1>li>ul>li:last-child:before {
@@ -87,7 +88,8 @@ input[type=text] {
 .cross,
 .home_hh p {
 	display: none;
-	position: absolute
+	position: absolute;
+	cursor:pointer;
 }
 
 @media screen and (max-width:790px) {
@@ -218,7 +220,7 @@ nav>ul>li:first-child a {
 }
 
 .slider h1 {
-	
+	font-size: 5vw;
 }
 
 .btn_slide {
@@ -264,27 +266,27 @@ nav>ul>li:first-child a {
 }
 
 .img_one {
-	background: #000 url(banner_one.jpg)center center no-repeat;
+	background: #000 url(../images/banner_one.jpg)center center no-repeat;
 	background-size: cover;
-	height: 100vh;
+	height: 700px
 }
 
 .img_two {
-	background: #000 url(banner_two.jpg)center center no-repeat;
+	background: #000 url(../images/banner_two.jpg)center center no-repeat;
 	background-size: cover;
-	height:  100vh;
+	height: 700px
 }
 
 .img_three {
-	background: #000 url(banner_three.jpg)center center no-repeat;
+	background: #000 url(../images/banner_three.jpg)center center no-repeat;
 	background-size: cover;
-	height:  100vh;
+	height: 700px
 }
 
 .img_four {
-	background: #000 url(banner_two.jpg)center center no-repeat;
+	background: #000 url(../images/banner_two.jpg)center center no-repeat;
 	background-size: cover;
-	height: 100vh; 
+	height: 700px
 }
 
 .img-text {
@@ -299,17 +301,17 @@ nav>ul>li:first-child a {
 }
 
 .img_one>ul>li>h2 {
-	
+	font-size: 150px
 }
 
 .img-text li {
-	padding: 40px 0;
+	padding: 30px 0;
 	position: relative
 }
 
 .img-text h2 {
-	font-size:10vw;
-	letter-spacing: 7px;
+	font-size: 100px;
+	letter-spacing: 7px
 }
 
 .img-text li:nth-child(2) {
@@ -351,22 +353,69 @@ nav>ul>li:first-child a {
 		letter-spacing: 0
 	}
 	.img_one>ul>li>h2 {
-		
+		font-size: 140px
 	}
 }
 
+@media screen and (max-width:692px) {
+	.img_one>ul>li>h2 {
+		font-size: 120px
+	}
+}
 
+@media screen and (max-width:592px) {
+	.img_one>ul>li>h2 {
+		font-size: 100px
+	}
+	.img-text h2 {
+		font-size: 90px;
+		letter-spacing: 0
+	}
+	.home_h2 {
+		width: 60%
+	}
+}
 
+@media screen and (max-width:500px) {
+	.img_one>ul>li>h2 {
+		font-size: 80px
+	}
+	.img-text h2 {
+		font-size: 80px
+	}
+	.zam{text-align:center;}
+}
 
+@media screen and (max-width:405px) {
+	.img_one>ul>li>h2 {
+		font-size: 70px
+	}
+	.img-text h2 {
+		font-size: 70px
+	}
+}
 
 @media screen and (max-width:360px) {
-	
+	.img_one>ul>li>h2 {
+		font-size: 70px
+	}
+	.img-text h2 {
+		font-size: 60px
+	}
 	.home_hidden li {
 		font-size: 13px
 	}
+	
 }
 
-
+@media screen and (max-width:358px) {
+	.img_one>ul>li>h2 {
+		font-size: 50px
+	}
+	.img-text h2 {
+		font-size: 60px
+	}
+}
 
 .h-aa {
 	display: flex;
@@ -422,7 +471,7 @@ nav>ul>li:first-child a {
 }
 
 .h-aa>li:last-child {
-	background: #000 url(fruit_basket.jpg)center center no-repeat;
+	background: #000 url(../images/fruit_basket.jpg)center center no-repeat;
 	background-size: cover;
 	padding: 246px 283px
 }
@@ -519,7 +568,7 @@ nav>ul>li:first-child a {
 }
 
 .home_fresh {
-	background: #000 url(image-three.jpg)center center no-repeat;
+	background: #000 url(../images/image-three.jpg)center center no-repeat;
 	background-size: cover;
 	padding: 100px 0;
 	margin: 60px 0
@@ -611,7 +660,7 @@ nav>ul>li:first-child a {
 }
 
 .home_our_advantage>ul {
-	background: url(image-four.jpg) center center no-repeat;
+	background: url(../images/image-four.jpg) center center no-repeat;
 	background-size: cover;
 	color: #fff
 }
@@ -696,32 +745,32 @@ nav>ul>li:first-child a {
 }
 
 .image_one {
-	background: #000 url(cereals.jpg) center center no-repeat;
+	background: #000 url(../images/cereals.jpg) center center no-repeat;
 	background-size: cover
 }
 
 .image_two {
-	background: #000 url(fruitsberries.jpg) center center no-repeat;
+	background: #000 url(../images/fruitsberries.jpg) center center no-repeat;
 	background-size: cover
 }
 
 .image_three {
-	background: #000 url(organic-dairy.jpg) center center no-repeat;
+	background: #000 url(../images/organic-dairy.jpg) center center no-repeat;
 	background-size: cover
 }
 
 .image_four {
-	background: #000 url(seeds.jpg) center center no-repeat;
+	background: #000 url(../images/seeds.jpg) center center no-repeat;
 	background-size: cover
 }
 
 .image_five {
-	background: #000 url(vegetables.jpg) center center no-repeat;
+	background: #000 url(../images/vegetables.jpg) center center no-repeat;
 	background-size: cover
 }
 
 .image_six {
-	background: #000 url(fresh-meat.jpg) center center no-repeat;
+	background: #000 url(../images/fresh-meat.jpg) center center no-repeat;
 	background-size: cover
 }
 
@@ -865,27 +914,27 @@ nav>ul>li:first-child a {
 }
 
 .tom li:first-child {
-	background: url(s-1.jpg)no-repeat;
+	background: url(../images/s-1.jpg)no-repeat;
 	background-size: cover
 }
 
 .tom li:nth-child(2) {
-	background: url(s-2.jpg)no-repeat;
+	background: url(../images/s-2.jpg)no-repeat;
 	background-size: cover
 }
 
 .tom li:nth-child(3) {
-	background: url(s-3.jpg)no-repeat;
+	background: url(../images/s-3.jpg)no-repeat;
 	background-size: cover
 }
 
 .tom li:nth-child(4) {
-	background: url(s-4.jpg)no-repeat;
+	background: url(../images/s-4.jpg)no-repeat;
 	background-size: cover
 }
 
 .tom li:last-child {
-	background: url(s-5.jpg)no-repeat;
+	background: url(../images/s-5.jpg)no-repeat;
 	background-size: cover
 }
 
