@@ -266,25 +266,25 @@ nav>ul>li:first-child a {
 }
 
 .img_one {
-	background: #000 url(../images/banner_one.jpg)center center no-repeat;
+	background: #000 url(banner_one.jpg)center center no-repeat;
 	background-size: cover;
 	height: 700px
 }
 
 .img_two {
-	background: #000 url(../images/banner_two.jpg)center center no-repeat;
+	background: #000 url(banner_two.jpg)center center no-repeat;
 	background-size: cover;
 	height: 700px
 }
 
 .img_three {
-	background: #000 url(../images/banner_three.jpg)center center no-repeat;
+	background: #000 url(banner_three.jpg)center center no-repeat;
 	background-size: cover;
 	height: 700px
 }
 
 .img_four {
-	background: #000 url(../images/banner_two.jpg)center center no-repeat;
+	background: #000 url(banner_two.jpg)center center no-repeat;
 	background-size: cover;
 	height: 700px
 }
@@ -471,7 +471,7 @@ nav>ul>li:first-child a {
 }
 
 .h-aa>li:last-child {
-	background: #000 url(../images/fruit_basket.jpg)center center no-repeat;
+	background: #000 url(fruit_basket.jpg)center center no-repeat;
 	background-size: cover;
 	padding: 246px 283px
 }
@@ -568,7 +568,7 @@ nav>ul>li:first-child a {
 }
 
 .home_fresh {
-	background: #000 url(../images/image-three.jpg)center center no-repeat;
+	background: #000 url(image-three.jpg)center center no-repeat;
 	background-size: cover;
 	padding: 100px 0;
 	margin: 60px 0
@@ -660,7 +660,7 @@ nav>ul>li:first-child a {
 }
 
 .home_our_advantage>ul {
-	background: url(../images/image-four.jpg) center center no-repeat;
+	background: url(image-four.jpg) center center no-repeat;
 	background-size: cover;
 	color: #fff
 }
@@ -745,32 +745,32 @@ nav>ul>li:first-child a {
 }
 
 .image_one {
-	background: #000 url(../images/cereals.jpg) center center no-repeat;
+	background: #000 url(cereals.jpg) center center no-repeat;
 	background-size: cover
 }
 
 .image_two {
-	background: #000 url(../images/fruitsberries.jpg) center center no-repeat;
+	background: #000 url(fruitsberries.jpg) center center no-repeat;
 	background-size: cover
 }
 
 .image_three {
-	background: #000 url(../images/organic-dairy.jpg) center center no-repeat;
+	background: #000 url(organic-dairy.jpg) center center no-repeat;
 	background-size: cover
 }
 
 .image_four {
-	background: #000 url(../images/seeds.jpg) center center no-repeat;
+	background: #000 url(seeds.jpg) center center no-repeat;
 	background-size: cover
 }
 
 .image_five {
-	background: #000 url(../images/vegetables.jpg) center center no-repeat;
+	background: #000 url(vegetables.jpg) center center no-repeat;
 	background-size: cover
 }
 
 .image_six {
-	background: #000 url(../images/fresh-meat.jpg) center center no-repeat;
+	background: #000 url(fresh-meat.jpg) center center no-repeat;
 	background-size: cover
 }
 
@@ -914,27 +914,27 @@ nav>ul>li:first-child a {
 }
 
 .tom li:first-child {
-	background: url(../images/s-1.jpg)no-repeat;
+	background: url(s-1.jpg)no-repeat;
 	background-size: cover
 }
 
 .tom li:nth-child(2) {
-	background: url(../images/s-2.jpg)no-repeat;
+	background: url(s-2.jpg)no-repeat;
 	background-size: cover
 }
 
 .tom li:nth-child(3) {
-	background: url(../images/s-3.jpg)no-repeat;
+	background: url(s-3.jpg)no-repeat;
 	background-size: cover
 }
 
 .tom li:nth-child(4) {
-	background: url(../images/s-4.jpg)no-repeat;
+	background: url(s-4.jpg)no-repeat;
 	background-size: cover
 }
 
 .tom li:last-child {
-	background: url(../images/s-5.jpg)no-repeat;
+	background: url(s-5.jpg)no-repeat;
 	background-size: cover
 }
 
